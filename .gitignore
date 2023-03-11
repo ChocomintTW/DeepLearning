@@ -1,2 +1,4 @@
 /stock predict/csv
 /cnn/char dataset
+/stock predict/stock-list.txt
+/stock predict/test.py
